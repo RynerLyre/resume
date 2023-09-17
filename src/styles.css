@@ -1,10 +1,10 @@
 body {
-  font-family: 'arial';
+  font-family: 'noto';
 }
 
 @font-face {
-  font-family: 'arial';
-  src: url('/public/font/Arial.ttf') format('truetype');
+  font-family: 'noto';
+  src: url('/public/font/NotoSansSC-VariableFont_wght.ttf') format('truetype');
 }
 
 ::selection {
