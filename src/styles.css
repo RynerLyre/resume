@@ -1,5 +1,10 @@
 body {
-  font-family: 'Poppins', sans-serif;
+  font-family: 'arial';
+}
+
+@font-face {
+  font-family: 'arial';
+  src: url('/public/font/Arial.ttf') format('truetype');
 }
 
 ::selection {
