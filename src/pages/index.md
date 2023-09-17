@@ -9,9 +9,9 @@ pdfLink: resume.pdf
 
 ## 自我介绍 Introducttion
 
-15252321491 | hyh152@foxmail.com | http://.com
+15252321491 | hyh152@foxmail.com | https://zoxeresume.netlify.app/
 
-他来自江苏省淮安市金湖县，于2023年6月获得学士学位，专业为计算机科学与技术。大一期间使用 c/c++ 于PTA练习编程。大三期间考研408失利，但于此同时也巩固了计算机基础。  
+江苏省淮安市金湖县，于2023年6月获得学士学位，专业为计算机科学与技术。大一期间使用 c/c++ 于PTA练习编程。大三期间考研408失利，但于此同时也巩固了计算机基础。  
 
 在校的专业课程学习为校企合作培养模式，学习内容为全栈开发（前后端分离架构，技术栈多使用vue + springboot）和python，期间接触了大量的前端框架，对国内外Web生态有一定感受。目前正在学习uniapp，当然他的目标远不止于此。   
 
@@ -29,7 +29,7 @@ pdfLink: resume.pdf
 
 - 精通HTML,CSS3,JavaScript,ES6,了解TypeScript
 - 熟悉Vue全家桶,Node.js,熟悉Webpack,vite,熟悉axios,了解JQuery,了解koa,express,React,uniapp
-- 熟悉Tailwind,ant-design,element-ui,echarts,了解vant,bootstrap
+- 精通Tailwind,熟悉ant-design,element-ui,echarts,了解vant,bootstrap
 - 熟悉代码检查,单元测试,自动化测试,了解CI/CD,了解前端性能优化,了解前端安全
 
 ### 后端
