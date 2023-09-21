@@ -27,22 +27,21 @@ pdfLink: resume.pdf
 
 ### 前端
 
-- 精通HTML,CSS3,JavaScript,ES6,了解TypeScript
-- 熟悉Vue全家桶,Node.js,熟悉Webpack,vite,熟悉axios,了解JQuery,了解koa,express,React,uniapp
-- 精通Tailwind,熟悉ant-design,element-ui,echarts,了解vant,bootstrap
-- 熟悉代码检查,单元测试,自动化测试,了解CI/CD,了解前端性能优化,了解前端安全
+- 精通HTML,CSS3,JavaScript,ES6,熟悉sass,了解TypeScript
+- 熟悉astro,熟悉Vue全家桶,Node.js,熟悉Webpack,vite,熟悉axios,了解koa,express,React,uniapp
+- 熟悉Tailwind,熟悉ant-design,element-ui,echarts,了解vant,bootstrap
 
 ### 后端
 
-- 熟悉SpringBoot,Mybatis,SpringDataJPA,了解SpringCloud,SpringSecurity,Hibernate
-- 熟悉MySQL,SQLServer,MongoDB,了解Redis,SQLite
-- 熟悉常见CMS,例如strapi,wordpress,ghost
+- 熟悉SpringBoot,Mybatis,SpringDataJPA,了解Hibernate
+- 熟悉MySQL,SQLServer,了解Redis,SQLite,MongoDB
+- 熟悉常见CMS,例如strapi,wordpress
 - 了解常见服务器,例如nginx,apache,了解docker,ubuntu,linux
 
 ### 其他
 
-- 使用C/C++编程,熟悉数据结构与算法,了解Python语法
-- 开发工具使用VSCode,Sublime,WebStorm,IDEA,PyCharm,Eclipse,phpstudy,微信开发者工具
+- 熟悉数据结构与算法,了解Python,c++
+- 开发工具使用VSCode,Sublime,WebStorm,IDEA,PyCharm,Eclipse,phpstudy
 - VMware,Navicat,postman,git
 
 ## 项目经历 Projects
@@ -51,7 +50,8 @@ pdfLink: resume.pdf
 
 #### 个人项目,担任主要开发人员. | May 2023
 
-**项目技术**：React18 + Ant Design Pro5 + Umi4 + Echarts + OpenAPI + SpringBoot + MyBatis-Plus + RabbitMQ + 鱼聪明AI SDK + Swagger + Knife4j
+**项目技术**：React18 + Ant Design Pro5 + Umi4 + Echarts + OpenAPI + SpringBoot + MyBatis-Plus + RabbitMQ + 鱼聪明AI SDK
+
 
 **开发环境**：JDK1.8 + MySQL8 + Tomcat9  
 
@@ -94,6 +94,7 @@ pdfLink: resume.pdf
 **项目描述**：该项目是一个完整的后台管理系统，与知识星球小程序配合使用
 
 **技术要点**：
+- 使用
 - 分别使用nginx，单机，和容器部署前后端
 
 ## 证书 Certificate
